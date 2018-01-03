@@ -1,0 +1,16 @@
+# Spark Java Tutorial
+
+Spark Java anlatımı için kullanılan örnek projedir.
+
+### Gereksinimler
+
+1. Java8
+2. Maven3
+3. IDE (Tercihe bağlı)
+
+### Çalıştırma
+
+Bağımlılıkları yüklemek için:
+mvn clean install
+
+Daha sonra MerhabaDunya.java sınıfının main methodunu run ediyoruz
